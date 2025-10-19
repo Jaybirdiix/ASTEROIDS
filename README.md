@@ -6,6 +6,8 @@ This is my attempt at recreating the classic 1979 game *Asteroids*. All art was 
 
 ## Game Preview
 
+Images were deleted sorry- will replace them soon !!
+
 ### Main Menu
 ![Image](./readme/menu.png)
 
