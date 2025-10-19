@@ -1,0 +1,13 @@
+{
+  "textures": [
+    { "id": "player", "path": "./assets/images/ship_animated.bmp" },
+    { "id": "alien", "path": "./assets/images/asteroid.bmp" },
+    { "id": "player_proj", "path": "./assets/images/proj.bmp" },
+    { "id": "alien_proj", "path": "./assets/images/Seed.bmp" },
+    { "id": "bg", "path": "./assets/images/back.bmp" },
+    { "id": "par1", "path": "./assets/images/middle.bmp" },
+    { "id": "par2", "path": "./assets/images/front.bmp" },
+    { "id": "fg", "path": "./assets/images/foreground.bmp" }
+  ],
+  "sounds": []
+}
