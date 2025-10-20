@@ -6,16 +6,14 @@ This is my attempt at recreating the classic 1979 game *Asteroids*. All art was 
 
 ## Game Preview
 
-Images were deleted sorry- will replace them soon !!
-
 ### Main Menu
-![Image](./readme/menu.png)
+![Image](./assets/MainMenu.png)
 
 ### Game Play
-![Image](./readme/Screenshot%202025-10-19%20at%2017.37.38.png)
+![Image](./assets/GamePlay.png)
 
 ### Game Over
-![Image](./readme/Screenshot%202025-10-19%20at%2017.37.16.png)
+![Image](./assets/GameOver.png)
 
 ---
 
